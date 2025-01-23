@@ -1,0 +1,53 @@
+
+body {  
+    font-family: Arial, sans-serif;  
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,0.6909357492997199) 0%, rgba(153,195,255,1) 100%);
+    margin: 0;  
+    padding: 0;  
+
+}  
+.table-container {  
+    background-color:transparent !important;   
+    backdrop-filter: blur(20px);
+    border-radius: 15px;  
+    box-shadow: -5px -16px 23px 20px rgba(90, 179, 239, 0.664); 
+}  
+ 
+.container h2 {  
+    color: #555;  
+    margin-bottom: 20px;  
+} 
+  
+label {  
+    display: block;  
+    margin-bottom: 5px;  
+    color: #555;  
+    font-weight: bold;  
+}  
+
+input[type="text"],  
+input[type="email"],  
+input[type="password"],  
+select {  
+    width: 100%;  
+    margin-bottom: 15px;  
+    padding: 10px;  
+    box-sizing: border-box;  
+    border: 1px solid #ddd;  
+    border-radius: 5px;  
+}  
+
+button[type="submit"] {  
+    padding: 15px;  
+    border-radius: 10px;  
+    border: none;  
+    background-color: #4caf50;  
+    color: white;  
+    cursor: pointer;  
+    width: 100%;  
+    font-size: 16px;  
+} 
+.head-bg{
+    background-color:  rgba(153,195,255,1) !important;
+}
