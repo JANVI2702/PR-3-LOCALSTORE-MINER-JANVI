@@ -24,16 +24,29 @@ Features
   
   Validation for all fields with user-friendly error messages.
   
-2.Data Display
+2.Data Display:
+
+
   Registered user data is displayed in a tabular format.
+  
   Each entry includes options to Edit or Delete the user data.
   
-3.CRUD Operations
-  Create: Add new user data through the form.
-  Read: View existing user data in the table.
-  Update: Edit user data using the form.
-  Delete: Remove user data from the list.
+  
+3.CRUD Operations:
 
-4.LocalStorage Integration
+
+  Create: Add new user data through the form.
+  
+  Read: View existing user data in the table.
+  
+  Update: Edit user data using the form.
+  
+  Delete: Remove user data from the list.
+  
+
+4.LocalStorage Integration:
+
+
   User data is saved in localStorage for persistence across sessions.
+  
 
