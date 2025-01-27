@@ -7,13 +7,21 @@ Features
 1.User Registration Form
  =>Input fields for:
   Username
+  
   Email
+  
   Password
+  
   Phone
-  Hobby (cheStudent Registration Form Application
+  
+  Hobby 
+  
   Gender (radio buttons)
+  
   Address (textarea)
+  
   City (dropdown menu)
+  
   Validation for all fields with user-friendly error messages.
   
 2.Data Display
